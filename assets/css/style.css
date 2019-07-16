@@ -1,0 +1,49 @@
+body {
+    background-image: url(../images/dundermiffback.jpg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    line-height: 150%;
+   
+   }
+
+
+
+#quiz {
+    margin-left: 10px;
+	padding: 10px 20px 10px 20px;	
+	float: left;
+
+}
+
+#mc {
+    font-weight: bold;
+}
+
+.pieceofpaper
+   {
+       position: absolute;
+       margin: 60px 40px 40px 60px;
+       width: 500px;
+       height: 550px;
+       border: 1px white;
+       background-color: white;
+       font-family: serif;
+       font-style: regular;
+   }
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 400px;
+    text-transform: uppercase;
+    text-align: center;
+}
+  
+.time {
+    text-transform: uppercase;
+}
+
+.submitbutton {
+    align-content: center;
+}
